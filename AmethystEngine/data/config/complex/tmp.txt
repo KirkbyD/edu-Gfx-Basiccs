@@ -1,0 +1,9 @@
+[COMPLEX]
+friendlyName=ComplexTest
+light=InvertSphereLightTest#3
+model=InvertedSphereTesting#3
+scale=1.0f
+position=0.0f 50.0f -20.0f
+velocity=0.0f -5.0f 0.0f
+accel=0.0f 0.0f 0.0f
+inverseMass=1.0f
